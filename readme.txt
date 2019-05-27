@@ -11,3 +11,5 @@ Run the api
 Run the site HTTPS=true npm start
 
 Run the app in browser like https://jquesada-intel.test.com:3000/  
+
+Enable popUps
